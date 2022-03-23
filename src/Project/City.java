@@ -22,4 +22,3 @@ class CityArray {
         return cityArray;
     }
 }
-
